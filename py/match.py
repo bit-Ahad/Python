@@ -1,5 +1,5 @@
 # Switch of cpp is replaced by Match in Python
-x = 8 ;
+x = int(input("Enter any integer below 10 : "))
 match x:
     case 8:
         print("Fine !!!")
