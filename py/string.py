@@ -15,3 +15,9 @@ print(a[3])
 # Using for character loop
 for character in b:
     print(character)
+
+# Checking characters in string
+if "ZING" in a:
+    print("YES")
+else:
+    print("NO")
