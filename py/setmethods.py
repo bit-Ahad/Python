@@ -28,7 +28,7 @@ a.remove("Added") #It generate error if not present
 a.discard(4) #It don't generate error if not present
 print(a)
 
-# Remove a random item
+# Remove a last item from set
 a.pop()
 print(a)
 
