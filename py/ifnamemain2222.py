@@ -1,0 +1,3 @@
+import ifnamemain
+
+ifnamemain.greet()
