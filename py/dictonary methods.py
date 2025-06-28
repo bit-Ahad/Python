@@ -13,6 +13,9 @@ print(di2)
 
 # del di2 
 
+di["wow"]="Added one more"
+print(di)
+
 # Use copy function to copy otherwise it just generate a refrence
 di3 = di2.copy()
 print(di3)
