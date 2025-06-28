@@ -11,3 +11,6 @@ print(di.items())
 
 for key in (di):
     print(f"The value for {key} is {di[key]}")
+
+di["wow"]="Added one more"
+print(di)
