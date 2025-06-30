@@ -1,4 +1,4 @@
-# self tell abour current instance of class
+# self tell about current instance of class
 class person:
     name = "Ahad"
     age = 19
