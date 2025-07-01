@@ -11,7 +11,8 @@ class updated(employee):
         super().__init__(n, a)
         self.pay = c
     def get2(self):
-        print(f"Name is {self.name} and age is {self.age} and pay is {self.pay}")
+        super().get()
+        print(f"Pay is {self.pay}")
 
 a = updated("Ahad",19,85000)
 a.get2()
