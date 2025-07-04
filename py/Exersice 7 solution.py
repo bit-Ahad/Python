@@ -1,3 +1,4 @@
+# Just for a single type of files
 import os
 
 files = os.listdir(r"A:\Codes\py")
