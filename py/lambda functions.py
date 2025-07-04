@@ -8,6 +8,7 @@ print(cube(4))
 print(square(4))
 print(sum(85686844,26853252,769623))
 
+
 # Used when giving a function as an argument to another function
 def func(fx ,c ):
     return 62 * fx(c)
